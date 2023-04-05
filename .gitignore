@@ -1,0 +1,5 @@
+.idea
+venv
+fastext_vectors
+__pycache__
+dataset
