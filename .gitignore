@@ -3,3 +3,5 @@ venv
 fastext_vectors
 __pycache__
 dataset
+index_offensive_sentences
+index_offensive_words
